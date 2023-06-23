@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-![jlaksana's Stats](https://github-readme-stats-khaki-nu-59.vercel.app/api?username=jlaksana&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![jlaksana's Stats](https://github-readme-stats-khaki-nu-59.vercel.app/api?username=jlaksana&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![jlaksana's Top Languages](https://github-readme-stats-khaki-nu-59.vercel.app/api/top-langs/?username=jlaksana&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
