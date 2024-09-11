@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-I am a computer science student at Cal Poly SLO and an aspiring software engineer. See what I have been working on and my stats below.
+I am a fullstack developer!
 
 ![jlaksana's Stats](https://github-readme-stats-khaki-nu-59.vercel.app/api?username=jlaksana&theme=tokyonight&hide=stars&show=reviews&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
